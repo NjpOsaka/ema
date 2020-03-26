@@ -34,7 +34,6 @@ Basic認証をかけています。ご覧の際は以下のIDとPassを入力し
 - Github
 
 
-
 # DB設計
 ## usersテーブル
 |Column|Type|Options|
